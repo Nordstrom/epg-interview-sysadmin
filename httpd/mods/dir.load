@@ -1,0 +1,1 @@
+LoadModule dir_module /usr/lib64/httpd/modules/mod_dir.so
