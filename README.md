@@ -31,10 +31,6 @@ one of them, and implement the following.
 * Both:  Write a simple script to do local testing of the web server and
   write to a log file with the status, schedule this to run every 5 minutes.
 
-Additionally, choose 1 common system administration related task that is better suited by a
-scripted process.  Share the script and a description of the problem
-it solves.
-
 ## Rules:
 
 * Clone this repo to your github account.
