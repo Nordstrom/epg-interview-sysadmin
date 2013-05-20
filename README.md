@@ -24,13 +24,11 @@ one of them, and implement the following.
   to do this.
 * Linux: Add support for an additional Kernel into GRUB and make it
   password protected.
-
 * Windows:  Include a script or command to enable pre-requisite features for
   IIS.
 * Windows:  Configure the IIS pool to not start at boot and a script
   to start it on demand.
 * Windows:  Add support for SSL, bind a cert to the appropriate site.
-
 * Both:  Write a simple script to do local testing of the web server and
   write to a log file with the status, schedule this to run every 5 minutes.
 
