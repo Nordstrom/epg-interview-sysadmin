@@ -36,9 +36,9 @@ one of them, and implement the following.
 
 ## Rules:
 
-1 [Fork this repo](https://help.github.com/articles/fork-a-repo) to your GitHub account.
-2 You can choose either the Linux or Windows assignment above.
+1 [Fork this repo](https://help.github.com/articles/fork-a-repo) to your GitHub account.  
+2 You can choose either the Linux or Windows assignment above.  
 3 You have to push the code to your Github account and submit a pull
-  request to this repo with the results.
+  request to this repo with the results.  
 
 **IF YOU CAN'T USE A PUBLIC REPO ON GITHUB, USE BITBUCKET [[ https://bitbucket.org/ ]] AND SET UP A PRIVATE REPO**
